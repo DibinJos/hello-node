@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello
-        image: mycrregistry53335.azurecr.io/dibinjoshellonode
+        image: mycrregistry53335.azurecr.io/dibinjoshellonode:4
         resources:
           requests:
             cpu: 100m
